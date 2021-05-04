@@ -1,2 +1,2 @@
-# micro-bit
+# micro:bit
 My micro:bit projects
